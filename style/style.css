@@ -1,0 +1,7 @@
+th:hover {
+  background-color: #eaf0f9;
+  cursor: pointer;
+}
+th:active {
+  background-color:#93a3bc;
+}
