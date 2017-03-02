@@ -1,6 +1,5 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# Camper Leader Board
+A Free Code Project in which the user can view Free Code Camp's users and sort them by points or by name.  
 
 ###Getting Started###
 
