@@ -1,5 +1,5 @@
 # Camper Leader Board
-A Free Code Project in which the user can view Free Code Camp's users and sort them by points or by name.  
+A Free Code Project in which the user can view Free Code Camp's users and sort them by points or by name.  The project uses React.js along with the help of Stephen Grider's React-Redux boilerplate.
 
 ###Getting Started###
 
